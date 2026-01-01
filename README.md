@@ -70,6 +70,10 @@ using modern DevOps tools and cloud services.
 
 👉 This repository should be evaluated **purely as a DevOps automation and cloud deployment project**.
 
+You can check [app demo here](https://youtu.be/lkN-NC3UhJ0?si=6hVWb3jLAf89_VMp) 🙋.
+
+And one more thing... Explanation video is coming soon...🔜
+
 ---
 
 <br>
