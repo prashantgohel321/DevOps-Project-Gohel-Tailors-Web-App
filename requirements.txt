@@ -1,0 +1,7 @@
+Flask
+Flask-PyMongo
+pymongo[srv]
+bcrypt
+python-dotenv
+werkzeug
+gunicorn
